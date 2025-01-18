@@ -11,32 +11,32 @@ spec:
     website: https://github.com/chengzhongxue
   customTemplates:
     page:
-      - name: 友情链接页面模版
-        description: 支持可预设文本的友链
+      - name: Plantilla de página de enlace amigable
+        description: Soporta enlaces de amigos con texto preestablecido
         screenshot:
         file: page_links.html
-      - name: 关于页面模版
-        description: 关于页面
+      - name: Plantilla de la página Acerca de
+        description: Página Acerca de
         screenshot:
         file: about.html
-      - name: 音乐页面模版
-        description: 音乐页面
+      - name: Plantilla de la página de música
+        description: Página de música
         screenshot:
         file: music.html
-      - name: 留言板页面模版
-        description: 留言板页面
+      - name: Plantilla de la página de mensajes
+        description: Página de mensajes
         screenshot:
         file: comments.html
-      - name: 待办清单页面模版
-        description: 待办清单页面
+      - name: Plantilla de la página de lista de tareas
+        description: Página de lista de tareas
         screenshot:
         file: todolist.html
-      - name: 相册页面模版
-        description: 相册页面
+      - name: Plantilla de la página de álbum
+        description: Página de álbum
         screenshot:
         file: album.html
-      - name: 最近评论页面模版
-        description: 最近评论页面
+      - name: Plantilla de la página de comentarios recientes
+        description: Página de comentarios recientes
         screenshot:
         file: new_comment.html
   description: Halo 2.x Theme base on Thymeleaf, Referring to Butterfly and Heo
